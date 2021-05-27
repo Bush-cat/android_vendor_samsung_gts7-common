@@ -55,6 +55,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -77,6 +78,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -99,6 +101,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -121,6 +124,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -143,6 +147,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -165,6 +170,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -187,6 +193,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -222,6 +229,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -244,6 +252,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="24"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -266,6 +275,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="24"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -288,6 +298,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="24"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -310,6 +321,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -332,6 +344,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -354,6 +367,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -389,6 +403,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -411,6 +426,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -433,6 +449,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -455,6 +472,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -477,6 +495,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -499,6 +518,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -521,6 +541,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -556,6 +577,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -578,6 +600,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -600,6 +623,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -622,6 +646,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -644,6 +669,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -666,6 +692,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -688,6 +715,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -723,6 +751,7 @@
         <volume-leveler-out-target value="-208" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -745,6 +774,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -767,6 +797,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -789,6 +820,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -811,6 +843,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -833,6 +866,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -855,6 +889,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -890,6 +925,7 @@
         <volume-leveler-out-target value="-272" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -912,6 +948,7 @@
         <volume-leveler-out-target value="-272" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -934,6 +971,7 @@
         <volume-leveler-out-target value="-272" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -956,6 +994,7 @@
         <volume-leveler-out-target value="-272" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -978,6 +1017,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1000,6 +1040,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1022,6 +1063,7 @@
         <volume-leveler-out-target value="-272" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1057,6 +1099,7 @@
         <volume-leveler-out-target value="-208" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1079,6 +1122,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1101,6 +1145,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1123,6 +1168,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1145,6 +1191,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1167,6 +1214,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1189,6 +1237,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1224,6 +1273,7 @@
         <volume-leveler-out-target value="-208" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1246,6 +1296,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1268,6 +1319,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1290,6 +1342,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1312,6 +1365,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1334,6 +1388,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1356,6 +1411,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1393,6 +1449,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1415,6 +1472,7 @@
         <volume-leveler-out-target value="-256" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="52"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1437,6 +1495,7 @@
         <volume-leveler-out-target value="-256" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="true" />
         <headphone-virtualizer-steerer-source-distance value="52"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1459,6 +1518,7 @@
         <volume-leveler-out-target value="-256" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="52"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1481,6 +1541,7 @@
         <volume-leveler-out-target value="-320" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1503,6 +1564,7 @@
         <volume-leveler-out-target value="-496" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="false" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1525,6 +1587,7 @@
         <volume-leveler-out-target value="-224" />
         <graphic-equalizer-enable value="false" />
         <virtualizer-enable value="true" />
+        <headtracking-enable value="false" />
         <headphone-virtualizer-steerer-source-distance value="4"/>
         <bass-enhancer-enable value="false" />
         <virtual-bass-process-enable value="false" />
@@ -1638,5 +1701,5 @@
       <regulator-sibilance-suppress-enable value="false" />
     </data>
   </tuning>
-  <authorized_technologies sku_name="DAX3 Android" device="dax3_android" bundle="DAP MOBILE v1.4" />
+  <authorized_technologies sku_name="DAX3 Android" device="dax3_android" bundle="DAP MOBILE v1.5" />
 </device_data>
